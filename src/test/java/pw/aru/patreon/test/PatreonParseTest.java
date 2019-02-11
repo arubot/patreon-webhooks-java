@@ -1,4 +1,7 @@
-package pw.aru.patreon;
+package pw.aru.patreon.test;
+
+import pw.aru.patreon.PatreonWebhookEvent;
+import pw.aru.patreon.PatreonWebhooksJava;
 
 public class PatreonParseTest {
 
@@ -103,7 +106,7 @@ public class PatreonParseTest {
         "}";
 
     public static void main(String[] args) {
-        PatreonWebhookEvent event = PatreonWebhookJava.parse("members:create", MESSAGE);
+        PatreonWebhookEvent event = PatreonWebhooksJava.parse("members:create", MESSAGE);
 
         System.out.println(event);
         System.out.println(event.user().socialConnections());
