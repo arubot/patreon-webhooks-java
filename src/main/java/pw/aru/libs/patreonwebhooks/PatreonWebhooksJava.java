@@ -1,8 +1,8 @@
-package pw.aru.patreon;
+package pw.aru.libs.patreonwebhooks;
 
 import org.json.JSONObject;
-import pw.aru.patreon.builder.EntityBuilder;
-import pw.aru.patreon.util.PatreonUtil;
+import pw.aru.libs.patreonwebhooks.builder.EntityBuilder;
+import pw.aru.libs.patreonwebhooks.util.PatreonUtil;
 
 /**
  * <p>Entry point of the API.</p>

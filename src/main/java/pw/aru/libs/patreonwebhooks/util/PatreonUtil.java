@@ -1,4 +1,4 @@
-package pw.aru.patreon.util;
+package pw.aru.libs.patreonwebhooks.util;
 
 import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;

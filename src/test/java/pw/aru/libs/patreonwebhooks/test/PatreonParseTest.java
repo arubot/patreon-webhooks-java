@@ -1,7 +1,7 @@
-package pw.aru.patreon.test;
+package pw.aru.libs.patreonwebhooks.test;
 
-import pw.aru.patreon.PatreonWebhookEvent;
-import pw.aru.patreon.PatreonWebhooksJava;
+import pw.aru.libs.patreonwebhooks.PatreonWebhookEvent;
+import pw.aru.libs.patreonwebhooks.PatreonWebhooksJava;
 
 public class PatreonParseTest {
 

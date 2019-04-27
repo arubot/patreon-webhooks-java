@@ -1,7 +1,7 @@
-package pw.aru.patreon.entity.impl;
+package pw.aru.libs.patreonwebhooks.entity.impl;
 
 import org.jetbrains.annotations.NotNull;
-import pw.aru.patreon.entity.Campaign;
+import pw.aru.libs.patreonwebhooks.entity.Campaign;
 
 import java.time.OffsetDateTime;
 import java.util.Objects;

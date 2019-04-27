@@ -1,10 +1,10 @@
-package pw.aru.patreon.builder;
+package pw.aru.libs.patreonwebhooks.builder;
 
 import org.json.JSONObject;
-import pw.aru.patreon.PatreonWebhookEvent;
-import pw.aru.patreon.entity.*;
-import pw.aru.patreon.entity.impl.*;
-import pw.aru.patreon.util.PatreonUtil;
+import pw.aru.libs.patreonwebhooks.PatreonWebhookEvent;
+import pw.aru.libs.patreonwebhooks.entity.*;
+import pw.aru.libs.patreonwebhooks.entity.impl.*;
+import pw.aru.libs.patreonwebhooks.util.PatreonUtil;
 
 import java.time.OffsetDateTime;
 import java.util.Collections;

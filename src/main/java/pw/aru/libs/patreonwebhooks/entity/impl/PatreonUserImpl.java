@@ -1,8 +1,8 @@
-package pw.aru.patreon.entity.impl;
+package pw.aru.libs.patreonwebhooks.entity.impl;
 
 import org.jetbrains.annotations.NotNull;
-import pw.aru.patreon.entity.PatreonUser;
-import pw.aru.patreon.entity.SocialConnection;
+import pw.aru.libs.patreonwebhooks.entity.PatreonUser;
+import pw.aru.libs.patreonwebhooks.entity.SocialConnection;
 
 import java.time.OffsetDateTime;
 import java.util.Objects;

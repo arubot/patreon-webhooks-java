@@ -1,4 +1,4 @@
-package pw.aru.patreon;
+package pw.aru.libs.patreonwebhooks;
 
 /**
  * Exception thrown if the signature provided is invalid.

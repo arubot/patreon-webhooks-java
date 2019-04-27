@@ -1,10 +1,10 @@
-package pw.aru.patreon;
+package pw.aru.libs.patreonwebhooks;
 
 import org.jetbrains.annotations.NotNull;
-import pw.aru.patreon.entity.Campaign;
-import pw.aru.patreon.entity.CampaignMember;
-import pw.aru.patreon.entity.EventType;
-import pw.aru.patreon.entity.PatreonUser;
+import pw.aru.libs.patreonwebhooks.entity.Campaign;
+import pw.aru.libs.patreonwebhooks.entity.CampaignMember;
+import pw.aru.libs.patreonwebhooks.entity.EventType;
+import pw.aru.libs.patreonwebhooks.entity.PatreonUser;
 
 /**
  * This is the main data class of the API, and represents an event received from a webhook as an entity.

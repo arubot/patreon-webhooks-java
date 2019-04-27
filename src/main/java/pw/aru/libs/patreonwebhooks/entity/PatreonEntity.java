@@ -1,4 +1,4 @@
-package pw.aru.patreon.entity;
+package pw.aru.libs.patreonwebhooks.entity;
 
 import org.jetbrains.annotations.NotNull;
 

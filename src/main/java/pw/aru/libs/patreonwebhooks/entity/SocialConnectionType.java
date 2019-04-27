@@ -1,6 +1,6 @@
-package pw.aru.patreon.entity;
+package pw.aru.libs.patreonwebhooks.entity;
 
-import pw.aru.patreon.util.PatreonUtil;
+import pw.aru.libs.patreonwebhooks.util.PatreonUtil;
 
 public enum SocialConnectionType {
     YOUTUBE,

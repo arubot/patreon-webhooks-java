@@ -1,4 +1,4 @@
-package pw.aru.patreon.entity;
+package pw.aru.libs.patreonwebhooks.entity;
 
 public enum EventType {
     /**
